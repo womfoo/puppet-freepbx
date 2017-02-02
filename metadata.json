@@ -9,8 +9,8 @@
   "issues_url": "https://github.com/camptocamp/puppet-freepbx/issues",
   "dependencies": [
     {
-      "name": "camptocamp/mysql",
-      "version_requirement": ">=0.0.0 <1.0.0"
+      "name": "puppetlabs/mysql",
+      "version_requirement": ">=0.0.0 <4.0.0"
     },
     {
       "name": "puppetlabs/apache",
